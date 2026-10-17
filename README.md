@@ -24,8 +24,6 @@ Dua operasi yang ditulis dari nol hanya dengan NumPy: **konvolusi 2D** (beserta 
 
 ## Unduh berkas
 
-Berkas `FIX.zip` (sekitar 183 MB) terlalu besar untuk repo biasa, jadi disimpan di Releases:
-
 - [Unduh FIX.zip](https://github.com/lauracrstinaa/utspcdkelompokk6/releases/download/v1.0/FIX.zip)
 - [Halaman release v1.0](https://github.com/lauracrstinaa/utspcdkelompokk6/releases/tag/v1.0)
 
