@@ -22,6 +22,13 @@ Pipeline pengolahan citra klasik (tanpa deep learning) untuk mengubah foto dokum
 
 Dua operasi yang ditulis dari nol hanya dengan NumPy: **konvolusi 2D** (beserta Gaussian blur) dan **thresholding Otsu**. Keduanya diverifikasi terhadap OpenCV pada 10 citra.
 
+## Unduh berkas
+
+Berkas `FIX.zip` (sekitar 183 MB) terlalu besar untuk repo biasa, jadi disimpan di Releases:
+
+- [Unduh FIX.zip](https://github.com/lauracrstinaa/utspcdkelompokk6/releases/download/v1.0/FIX.zip)
+- [Halaman release v1.0](https://github.com/lauracrstinaa/utspcdkelompokk6/releases/tag/v1.0)
+
 ## Persyaratan
 
 - Python 3.9 atau lebih baru
