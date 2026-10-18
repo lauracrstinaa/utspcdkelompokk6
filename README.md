@@ -135,6 +135,9 @@ Foto dipotret sendiri oleh kelompok. Jika dataset publik dipakai, isi sumber dan
 ## Anggota kelompok
 
 Gizsha Anggraini (2430105030016) Ketua dan Integrator 
+
 Laura Cristina (2430105030013) Pengembang Algoritma, Penguji/Penulis, Integrator
+
 Kartika Maulidia Zyamzia (2430105030029) Penanggung Jawab Data, Pengembang Algoritma, Integrator
+
 Victoria (2430205030003) Penanggung Jawab Data, Penguji/Penulis, Integrator
